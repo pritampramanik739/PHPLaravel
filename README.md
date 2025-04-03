@@ -69,7 +69,7 @@ Access the app at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 5. Create a pull request 🛠️
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **Haldia Institute of Technology**.
 
 ---
 Made with ❤️ by [Pritam Pramanik](https://github.com/pritampramanik739) 🚀
